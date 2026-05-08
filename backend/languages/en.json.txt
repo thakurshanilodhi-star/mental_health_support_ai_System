@@ -1,0 +1,27 @@
+{
+  "app_title": "Mental Health Support AI",
+  "welcome": "Welcome to Student Support System",
+
+  "daily_plan": "Daily Plan Generator",
+  "enter_goal": "Enter your goal",
+  "generate_plan": "Generate Plan",
+  "your_plan": "Your Plan",
+
+  "focus_session": "Focus Session",
+  "enter_subject": "Enter Subject",
+  "duration": "Duration (minutes)",
+  "complete_session": "Complete Session",
+  "session_saved": "Session Saved Successfully",
+
+  "dashboard": "Dashboard",
+  "total_study_time": "Total Study Time",
+
+  "exam_planner": "Exam Planner",
+  "generate_exam_plan": "Generate Exam Plan",
+
+  "study_log": "Study Log",
+
+  "pyq": "PYQ Analyzer",
+  "paste_pyq": "Paste Previous Year Questions",
+  "analyze": "Analyze"
+}

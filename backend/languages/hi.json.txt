@@ -1,0 +1,27 @@
+{
+  "app_title": "मेंटल हेल्थ सपोर्ट AI",
+  "welcome": "स्टूडेंट सपोर्ट सिस्टम में आपका स्वागत है",
+
+  "daily_plan": "दैनिक योजना जनरेटर",
+  "enter_goal": "अपना लक्ष्य दर्ज करें",
+  "generate_plan": "योजना बनाएं",
+  "your_plan": "आपकी योजना",
+
+  "focus_session": "फोकस सत्र",
+  "enter_subject": "विषय दर्ज करें",
+  "duration": "समय (मिनट)",
+  "complete_session": "सत्र पूरा करें",
+  "session_saved": "सत्र सफलतापूर्वक सेव हुआ",
+
+  "dashboard": "डैशबोर्ड",
+  "total_study_time": "कुल अध्ययन समय",
+
+  "exam_planner": "परीक्षा योजना",
+  "generate_exam_plan": "परीक्षा योजना बनाएं",
+
+  "study_log": "अध्ययन रिकॉर्ड",
+
+  "pyq": "PYQ विश्लेषण",
+  "paste_pyq": "पिछले वर्ष के प्रश्न चिपकाएँ",
+  "analyze": "विश्लेषण करें"
+}
