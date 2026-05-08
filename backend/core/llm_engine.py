@@ -1,7 +1,7 @@
 import requests
 
 #  Apni API key yaha paste karo
-API_KEY = ""
+API_KEY = "OPen AI Key"
 
 
 def generate_ai_response(prompt):
