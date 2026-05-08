@@ -1,7 +1,7 @@
 import requests
 
 #  Apni API key yaha paste karo
-API_KEY = "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"
+API_KEY = ""
 
 
 def generate_ai_response(prompt):
